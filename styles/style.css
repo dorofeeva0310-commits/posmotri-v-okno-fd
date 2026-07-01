@@ -326,7 +326,7 @@ ol {
   align-self: end;
 }
 
-button.more-button {
+.content__list-container .more-button {
   width: 100%;
   height: 34px;
   align-self: end;
